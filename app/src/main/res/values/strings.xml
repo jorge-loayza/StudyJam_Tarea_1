@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudyJam_Tarea_1</string>
+    <string name="idioma">English &#183; Portugues &#183;</string>
+    <string name="mas">&#32;Mas...</string>
+    <string name="correo">Correo electrónico o teléfono</string>
+    <string name="password">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="recuperar">¿OLVIDASTE TU CONTRASEÑA?</string>
+    <string name="crear_cuenta">CREAR CUENTA DE FACEBOOK</string>
+
+</resources>
